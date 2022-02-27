@@ -1,0 +1,2 @@
+# MINI-ALEXA-in-Python
+MINI ALEXA PROJECT in Python
